@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Projeto base para as próximas aplicações em",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juguarnieri/nodejs-first-boilerplate.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Boilerplate",
+    "SENAI",
+    "Back-End",
+    "Dev"
+  ],
+  "author": "Julia Guarnieri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juguarnieri/nodejs-first-boilerplate/issues"
+  },
+  "homepage": "https://github.com/juguarnieri/nodejs-first-boilerplate#readme"
+}
